@@ -1,3 +1,11 @@
+"""
+This Demo provides a tool to classify images using the FashionCLIP model.
+Is uses the pretrained CLIP model from patrickjohncyh/fashion-clip.
+
+@author: Jules Kreuer
+@contact: contact@juleskreuer.eu
+"""
+
 import os
 import pathlib
 from PIL import Image
